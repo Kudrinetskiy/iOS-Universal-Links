@@ -1,11 +1,1 @@
-{
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "M8HBL5W4VV.com.Universal-Links",
-                "paths": [ "/iOS-Universal-Links/*"]
-            }
-        ]
-    }
-}
+{"webcredentials":{"apps":["DW8TV2R64R.com.101-GROUP.101-group-test"]}}
